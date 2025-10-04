@@ -71,10 +71,10 @@ const b = 40;
 console.log(a, b);
 
 const sum = a + b;
-const myVariable = 40(sum);
+// const myVariable = 40(sum);
 console.log("sim", sum, 7, false);
 const my = a - b;
-console.log(difference);
+// console.log(difference);
 const product = a * b;
 console.log(product);
 const division = a / b;
@@ -91,5 +91,17 @@ Create another variable variable called item and set it to null.
 /* Exercise 3.
 Create a variable hobby but don't give it a value
 Create another variable variable called item and set it to null.
-
 */
+20/3;
+const myConcantenation = "I am" +"_"+ "Full"
+console.log(myConcantenation);
+
+const book= {
+  title: "JavaScript Fundamentals",
+yearOfPublication: "1998",
+yearOfRelease: "1999 "};
+
+console.log(book);
+
+book.myType= "Fiction";
+
